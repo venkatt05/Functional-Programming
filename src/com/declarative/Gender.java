@@ -1,4 +1,4 @@
-package com.declarative.functionals;
+package com.declarative;
 
 public enum Gender {
 

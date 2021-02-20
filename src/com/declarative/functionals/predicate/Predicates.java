@@ -1,6 +1,6 @@
 package com.declarative.functionals.predicate;
 
-import com.declarative.functionals.Gender;
+import com.declarative.Gender;
 
 import java.util.function.BiPredicate;
 import java.util.function.Predicate;

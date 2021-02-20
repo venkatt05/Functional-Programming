@@ -4,7 +4,6 @@ import static com.declarative.functionals.consumer.ConsumerInterface.printValue;
 import static com.declarative.functionals.consumer.ConsumerInterface.printValues;
 import static com.declarative.functionals.supplier.SupplierInterface.generateRandomNumber;
 
-import com.declarative.functionals.Gender;
 import com.declarative.functionals.function.FunctionalInterface;
 import com.declarative.functionals.MyFunctionalInterface;
 import com.declarative.functionals.predicate.Predicates;
